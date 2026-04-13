@@ -1,5 +1,8 @@
 # 📘 Projeto GEA - Guia de Ensino Aprendizagem
 
+Autores:
+3 ano - Curso Técnico de Informática - EE Geraldo Jardim Linhares
+
 > **Status do Projeto:** 🚀 Em Desenvolvimento (Versão v1_30032026)  
 > **Instituição:** Escola Geraldo Jardim Linhares  
 > **Modelo Pedagógico:** Inspirado na *Escola da Escolha* (ICE)
